@@ -1,0 +1,24 @@
+variable 			byte(Memory)
+
+char 		 	      1
+unsigned chr 	      1
+signed char    	      1
+int           	      2
+unsigned int   	      2
+signed int            2 
+short int 	          2
+unsigned shortint     2
+signed sahort int     2
+long int              4
+unsigned  long int    4
+float                 4
+double                8
+long double          10
+
+
+declearattion variable
+for example float X
+            float sum = 10
+			sums = sum + x
+			float = ave;
+			ave =sum/i;
